@@ -1,2 +1,2 @@
 # Simple-Calculator
-Built a calculator where user can do operations like addition,subtraction,multiplication and division using HTML,CSS and Javascript
+Built a calculator using HTML,CSS and Javascript where user can do operations like addition,subtraction,multiplication and division
